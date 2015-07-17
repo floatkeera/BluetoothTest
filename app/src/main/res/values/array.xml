@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">
+        <item>View Device Info</item>
+        <item>Sync Stress Data</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>Past 24 hours</item>
+        <item>Past week</item>
+        <item>Past month</item>
+    </string-array>
+
+
+
+</resources>

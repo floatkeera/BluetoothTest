@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Being DataSync</string>
+    <string name="HR">心拍数</string>
+    <string name="action_settings"></string>
+    <string name="button_send">送る</string>
+    <string name="cancel">キャンセル </string>
+    <string name="choosedata">データを選択</string>
+    <string name="connecttobeing">あなたの being に接続します</string>
+    <string name="datareceived">データを受信</string>
+    <string name="disconnect">切断</string>
+    <string name="edit_message"></string>
+    <string name="gettingdata">デバイスからデータを取得</string>
+</resources>

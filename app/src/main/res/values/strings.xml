@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Being DataSync</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_data">dataActivity</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Upload Data</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="scan">Scan</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="choosedata">Choose data:</string>
+    <string name="viewdata">View Data</string>
+    <string name="status">Status: Not Available</string>
+    <string name="statusconnected">Status: Connected</string>
+    <string name="statusdisconnected">Status: Disconnected</string>
+    <string name="statusconnecting">Status: Connecting...</string>
+    <string name="gettingdata">Getting data from device...</string>
+    <string name="datareceived">Data received:</string>
+    <string name="title_activity_analytics">AnalyticsActivity</string>
+    <string name="connecttobeing">Connect</string>
+    <string name="HR">Heart Rate</string>
+    <string name="refresh">Refreshing data from server...</string>
+    <string name="choosedevice">Choose your device</string>
+    <string name="mood">Mood</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.zensorium.bluetoothtest.AnalyticsActivity">
+
+    <item
+        android:id="@+id/connect"
+        android:title="@string/connecttobeing"
+        android:icon="@drawable/being"
+        android:orderInCategory="0"
+        app:showAsAction="always|withText" />
+
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        android:icon = "@drawable/settings"
+        app:showAsAction="always" />
+
+
+</menu>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Being DataSync</string>
+    <string name="ok">อัปโหลดข้อมูล</string>
+    <string name="button_send">ส่ง</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="action_settings">การตั้งค่า</string>
+    <string name="scan">สแกน</string>
+    <string name="viewdata">ดูข้อมูล</string>
+    <string name="disconnect">เลิกการเชื่อมต่อ</string>
+    <string name="choosedata">เลือกข้อมูล</string>
+    <string name="statusconnected">สถานะ: เชื่อมต่ออยู่</string>
+    <string name="statusconnecting">สถานะ: กำลังเชื่อมต่อ...</string>
+    <string name="statusdisconnected">สถานะ: เลิกการเชื่อมต่อแล้ว</string>
+    <string name="status">สถานะ: -</string>
+    <string name="datareceiveed">ข้อมูลที่ได้:</string>
+    <string name="gettingdata">กำลังรับข้อมูล...</string>
+    <string name="connecttobeing">ต่อเชื่อมกับ being ของคุณ</string>
+    <string name="datareceived">ข้อมูลที่ได้:</string>
+    <string name="HR">อัตราการเต้นหัวใจ</string>
+    <string name="refresh">กำลังรีเฟรชข้อมูล</string>
+    <string name="choosedevice">เลือกอุปกรณ์ของคุณ</string>
+    <string name="mood">อารมณ์</string>
+</resources>
